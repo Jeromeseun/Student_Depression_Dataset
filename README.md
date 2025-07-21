@@ -10,3 +10,11 @@ Analyst Role: Data Analyst
 
 Analysis Tools Used: Microsoft Power BI (Power Query, Visualisation)
 
+## Dataset Description
+- Total Records: 27,901
+
+- Columns: 20
+
+- Source: (https://www.kaggle.com/)
+
+- Each row represents: A unique student's details.
