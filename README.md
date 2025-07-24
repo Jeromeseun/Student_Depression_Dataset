@@ -55,4 +55,27 @@ https://github.com/Jeromeseun/Student_Depression_Dataset/blob/main/Student_Depre
 <img width="957" height="500" alt="Student_Depression_Dataset_Power_Query" src="https://github.com/user-attachments/assets/0a4c437e-3a41-448a-b237-531d3dcbc094" />
 
 
+## Tools Used
+-**Microsoft Power BI**
+
+    -Power Query Editor
+    -Data Visualization tool: Line, Pie, Bar, Donut Charts, Slicer, Stacked Column Chart, Cards, and Area Chart)
+    -Conditional Formatting
+    -DAX Function
+
+
+## About me
+**JEROME Oluwaseun Oluwastosin**
+
+Digital Forensics Analyst | Data Analyst | Pastor | Intelligence Analyst | Investigator
+
+I am Passionate about Statistics and exploring Data for intelligent and actionable decision making.
+
+
+## Contact
+**-Email: jeromeseun@yahoo.com**
+
+**-Phone Number: +2348038614506**
+
+**Linkedin: https://www.linkedin.com/in/oluwaseun-jerome-5b7656147**
 
