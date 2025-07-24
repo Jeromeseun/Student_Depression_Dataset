@@ -8,7 +8,7 @@ Sector: Education
 
 Analyst Role: Data Analyst
 
-Analysis Tools Used: Microsoft Power BI (Power Query, Visualisation)
+Analysis Tools Used: Microsoft Power BI (Power Query, Visualization)
 
 ## Dataset Description
 - Total Records: 27,901
@@ -51,5 +51,9 @@ Analysis Tools Used: Microsoft Power BI (Power Query, Visualisation)
 
     - Depression
  
-    - Family Illness count
+    - Family Illness Count
  
+## Visual Dashboard
+<img width="971" height="486" alt="Student_Depression_Dataset_Visualisation 1" src="https://github.com/user-attachments/assets/810a1ac5-76d6-4232-886d-1055ea8b1631" />
+<img width="748" height="256" alt="Student_Depression_Dataset_Visualisation 3" src="https://github.com/user-attachments/assets/78c42a1c-2d39-43a5-8db5-9604bc339c8e" />
+<img width="843" height="482" alt="Student_Depression_Dataset_Visualisation 2" src="https://github.com/user-attachments/assets/1158e408-93b1-4937-9872-d1e729f468cc" />
