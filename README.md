@@ -1,5 +1,5 @@
 # Student_Depression_Dataset
-This dataset contains comprehensive information about students’ mental health and related factors. It is designed to analyze the trends and predictors of depression among students. The data includes demographic details, academic and work-related pressures, lifestyle habits, and specific mental health indicators.
+This dataset provides comprehensive information on students’ mental health and related factors, designed to analyze the trends and predictors of depression among students. The data includes demographic details, academic and work-related pressures, lifestyle habits, and specific mental health indicators.
 
 ## Project Information
 Organisation Name: Unknown School in India
@@ -50,3 +50,9 @@ https://github.com/Jeromeseun/Student_Depression_Dataset/blob/main/Student_Depre
 
 
 <img width="843" height="482" alt="Student_Depression_Dataset_Visualisation 2" src="https://github.com/user-attachments/assets/1158e408-93b1-4937-9872-d1e729f468cc" />
+
+
+<img width="957" height="500" alt="Student_Depression_Dataset_Power_Query" src="https://github.com/user-attachments/assets/0a4c437e-3a41-448a-b237-531d3dcbc094" />
+
+
+
