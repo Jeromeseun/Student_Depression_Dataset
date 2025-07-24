@@ -22,37 +22,26 @@ Analysis Tools Used: Microsoft Power BI (Power Query, Visualization)
 - **The column Fields pertinent to the analysis included:**
 
     - ID
-
     - Gender
-
     - Age
-
     - City
-
     - Academic Pressure
-
     - Work Pressure
-
     - Study satisfaction
-
     - Job satisfaction
- 
     - Sleep Duration
- 
     - Dietary Habits
- 
     - Have you had suicidal thoughts
- 
     - Financial stress
+    -  Depression
+    - Family Illness Count
 
 
 ## Analysed File
+https://github.com/Jeromeseun/Student_Depression_Dataset/blob/main/Student_Depression_Dataset_Solution.pbix
 
 
-    - Depression
- 
-    - Family Illness Count
- 
+    
 ## Visual Dashboard
 <img width="971" height="486" alt="Student_Depression_Dataset_Visualisation 1" src="https://github.com/user-attachments/assets/810a1ac5-76d6-4232-886d-1055ea8b1631" />
 
