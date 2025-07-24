@@ -86,13 +86,13 @@ https://github.com/Jeromeseun/Student_Depression_Dataset/blob/main/Student_Depre
 -**Microsoft Power BI**
 
     -Power Query Editor
-    -Data Visualization tool: Line, Pie, Bar, Donut Charts, Slicer, Stacked Column Chart, Cards, and Area Chart)
+    -Data Visualization tool: (Line, Pie, Bar, Donut Charts, Slicer, Stacked Column Chart, Cards, and Area Chart)
     -Conditional Formatting
     -DAX Function
 
 
 ## About me
-**JEROME Oluwaseun Oluwastosin**
+**JEROME Oluwaseun Oluwatosin**
 
 Digital Forensics Analyst | Data Analyst | Pastor | Intelligence Analyst | Investigator
 
