@@ -36,25 +36,25 @@ Analysis Tools Used: Microsoft Power BI (Power Query, Visualization)
     -  Depression
     - Family Illness Count
 
- ## Exploratory Data Analysis
-1. What is the total number of Students in the institution? (Card)
-2. What is the total Number of Depressed Students in the institution? (Card)
-3. What is the Average age grade of students who suffer from depression (Card)
-4. What is the Total Percentage of Depressed students in the institution? (DAX function and Card)
-5. What is the total number of depressed students by Gender (Stack column chart)
-6. What is the Average CGPA of Depressed students (Matrix)
-7. What is the profession of Students in the institution? (slicer)
-8. Top 10 Cities with the highest number of depressed students (Clustered column chart)
-9. How many Depressed students by Gender have a Family History of Mental Illness (Clustered column chart)
-10. How many Depressed students have suicidal thoughts (Donut Chart)
-11.  How many Depressed students are Financially Stressed (Stacked Column Chart)
-12. What is the Total Number of  Depressed students by Age (Line Chart)
-13. What are the Dietary Habits of the Depressed students(Stacked Column Chart)
-14. What is the Sleep Duration of Depressed students (Cluster bar chart)
-15. Are the Depressed students having Study Satisfaction (Area Chart)
-16. Are the Depressed students having Job Satisfaction (Clustered column chart)
-17. Are the Depressed students having Academic Pressure (Line Chart)
-18. What are the degrees of the Depressed student (Cluster bar chart)
+ ## Exploratory Data Analysis (EDA)
+1. What is the total number of Students in the institution?
+2. What is the total Number of Depressed Students in the institution?
+3. What is the Average age grade of students who suffer from depression?
+4. What is the Total Percentage of Depressed students in the institution?
+5. What is the total number of depressed students by Gender?
+6. What is the Average CGPA of Depressed students?
+7. What is the profession of Students in the institution?
+8. Top 10 Cities with the highest number of depressed students
+9. How many Depressed students by Gender have a Family History of Mental Illness?
+10. How many Depressed students have suicidal thoughts
+11.  How many Depressed students are Financially Stressed 
+12. What is the Total Number of  Depressed students by Age 
+13. What are the Dietary Habits of the Depressed students
+14. What is the Sleep Duration of Depressed students
+15. Are the Depressed students having Study Satisfaction 
+16. Are the Depressed students having Job Satisfaction
+17. Are the Depressed students having Academic Pressure 
+18. What are the degrees of the Depressed student
 
 
 
