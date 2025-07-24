@@ -37,30 +37,49 @@ Analysis Tools Used: Microsoft Power BI (Power Query, Visualization)
     - Family Illness Count
 
  ## Exploratory Data Analysis
-
-
- 
-
+1. What is the total number of Students in the institution? (Card)
+2. What is the total Number of Depressed Students in the institution? (Card)
+3. What is the Average age grade of students who suffer from depression (Card)
+4. What is the Total Percentage of Depressed students in the institution? (DAX function and Card)
+5. What is the total number of depressed students by Gender (Stack column chart)
+6. What is the Average CGPA of Depressed students (Matrix)
+7. What is the profession of Students in the institution? (slicer)
+8. Top 10 Cities with the highest number of depressed students (Clustered column chart)
+9. How many Depressed students by Gender have a Family History of Mental Illness (Clustered column chart)
+10. How many Depressed students have suicidal thoughts (Donut Chart)
+11.  How many Depressed students are Financially Stressed (Stacked Column Chart)
+12. What is the Total Number of  Depressed students by Age (Line Chart)
+13. What are the Dietary Habits of the Depressed students(Stacked Column Chart)
+14. What is the Sleep Duration of Depressed students (Cluster bar chart)
+15. Are the Depressed students having Study Satisfaction (Area Chart)
+16. Are the Depressed students having Job Satisfaction (Clustered column chart)
+17. Are the Depressed students having Academic Pressure (Line Chart)
+18. What are the degrees of the Depressed student (Cluster bar chart)
 
 
 
   ## Analysis Tasks and Solution
 |Nos| Task | Solution/ Tools used|
 |---|-------|----------------------|
-|1| What is the average discount percentage by product category| Pivot Table, Average formula
-|2| How many products are listed under each category?|	Pivot Table + Count of product name
-|3|	What is the total number of reviews per category?|	Pivot + Count of Review
-|4| Which products have the highest average ratings?|	Sorting based on calculated Average Rating on pivot table
-|5|	What is the actual vs discounted price by category?|	Grouped Bar Chart + Pivot Summary
-|6|	Which products have the highest number of reviews?|	Top-# Analysis using Sorting + Pivot Table
-|7|	How many products have ≥ 50% discount?|	Filter High Discount column
-|8|	What is the distribution of product ratings (e.g., 3.0, 4.0, etc.)?|	Line chart with Pivot Count
-|9|	Total potential revenue (actual_price × rating_count) per category?|	New Calculated Column on Power query + Pivot Table SUM
-|10| Unique product count per price range bucket (<₹200, ₹200–₹500, >₹500)?| Added conditional column in Power query + Donut Chart
-|11| Relationship between rating and discount level?|	Pivot Table +Column Chart
-|12| How many products have fewer than 1,000 reviews?|	Added Conditional Column + Column Chart
-|13| Categories with highest average discount?|	Sorted Pivot Table by Discount%
-|14| Top 5 products by combined review count and rating| Pivot, Sum of rating, Count of reviews.
+|1| What is the total number of Students in the institution?| Sorted using Card chart
+|2| What is the total Number of Depressed Students in the institution?| Sorted using Card chart
+|3|	What is the Average age grade of students who suffer from depression? | Sorted using Card chart
+|4| What is the Total Percentage of Depressed students in the institution?| DAX function to create a percentage column and a Card chart for visualization
+|5|	What is the total number of depressed students by Gender| Sorted with Stack column chart
+|6|	What is the Average CGPA of Depressed students?|Analysed with Matrix
+|7|	What is the profession of Students in the institution?| Sorted using slicer
+|8|Top 10 Cities with the highest number of depressed students| Top 10 Analysed using Clustered column chart
+|9|	How many Depressed students by Gender have a Family History of Mental Illness| Analysed with Clustered column chart
+|10|How many Depressed students have suicidal thoughts| Donut Chart with Percentage
+|11| How many Depressed students are Financially Stressed| Sorted with Stacked Column Chart
+|12| What is the Total Number of  Depressed students by Age?| Visualized on  Line Chart
+|13| Dietary Habits of the Depressed students| Stacked Column Chart
+|14| What is the Sleep Duration of Depressed students| Cluster bar chart analysis
+|15| Are the Depressed students having Study Satisfaction| Sorted using Area Chart
+|16| Are the Depressed students having Job Satisfaction| Clustered column chart
+|17| Are the Depressed students having Academic Pressure? | Line Chart for analysis and visuals
+|18| What are the degrees of the Depressed student| Cluster bar chart visual
+
 
 
 
