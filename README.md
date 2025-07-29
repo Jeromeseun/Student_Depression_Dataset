@@ -81,8 +81,6 @@ Analysis Tools Used: Microsoft Power BI (Power Query, Visualization)
 |18| What are the degrees of the Depressed student| Cluster bar chart visual
 
 
-
-
 ## Analysed File
 https://github.com/Jeromeseun/Student_Depression_Dataset/blob/main/Student_Depression_Dataset_Solution.pbix
 
@@ -108,6 +106,28 @@ https://github.com/Jeromeseun/Student_Depression_Dataset/blob/main/Student_Depre
     -Data Visualization tool: (Line, Pie, Bar, Donut Charts, Slicer, Stacked Column Chart, Cards, and Area Chart)
     -Conditional Formatting
     -DAX Function
+
+
+## Observations
+
+Recent observations from the analysis indicate that a significant proportion of students are struggling with poor dietary habits, which may predispose them to diet-related illnesses such as obesity, diabetes, and high blood pressure. These conditions not only compromise physical health but also have strong links to mental health issues, including increased risk of depression.
+
+One key concern is that hypertension, often triggered by poor nutrition and stress, can negatively impact cognitive performance and emotional stability. This highlights the need for integrated health interventions targeting both physical wellness and psychological resilience.
+
+Furthermore, the involvement of professional therapists and counselors is essential and should not be overlooked. Their expertise is vital in guiding affected students through the recovery process, offering coping strategies, emotional support, and preventive care. Embedding therapy services into student wellness programs can significantly enhance overall recovery outcomes.
+
+Equally alarming is the rising incidence of suicidal thoughts among students, which poses a serious threat to individual safety and the broader reputation of the academic institution. This trend demands immediate attention and coordinated response, including:
+
+- Mental health education and awareness campaigns
+
+- Establishment of safe and confidential support channels
+
+- Increased availability of trained counselors
+
+- Early warning systems through peer and staff reporting
+
+## Recommendation
+An immediate review and strengthening of the institution’s health and wellness strategy is necessary. A collaborative framework involving nutritionists, medical personnel, therapists, and academic leadership will be critical to safeguard student well-being and preserve the integrity of the school’s learning environment.
 
 
 ## About me
